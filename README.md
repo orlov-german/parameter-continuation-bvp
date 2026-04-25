@@ -1,4 +1,4 @@
-<img width="1792" height="1120" alt="image" src="https://github.com/user-attachments/assets/b82e9d32-f39c-4d77-a641-e0a7411fb0f4" /># Parameter Continuation Method for BVP
+# Parameter Continuation Method for BVP
 
 ## Описание проекта
 
