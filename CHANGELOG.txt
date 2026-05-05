@@ -1,0 +1,28 @@
+CHANGELOG
+
+[0.4.0] - 2026-05-04
+- Removed the built-in optimal_control_like example.
+- Updated the linear example to use parameter k.
+- Linear equation now uses y'' + mu * k * y = 0 with k = 3.14.
+
+[0.3.0] - 2026-05-04
+- Added welcome window before the main application.
+- Added information sections in Russian: author, project description, and help.
+- Added author information window with a photo placeholder.
+- Added settings button in the main window with access to author, project, and help sections.
+- Updated GUI thread callbacks for cleaner Tkinter event handling.
+
+[0.2.0] - 2026-05-04
+- Added storage of intermediate continuation solutions for all mu steps.
+- Added graph modes: final solution, continuation path, initial guess vs final solution.
+- Added variable selector for plots.
+- Added table of continuation steps in GUI.
+- Added boundary residual calculation.
+- Added CSV export of final solution and all continuation steps.
+- Added third-order nonlinear built-in example.
+
+[0.1.0] - 2026-04-25
+- Created GitHub repository.
+- Added README.md with project description.
+- Added requirements.txt with initial dependencies.
+- Added CHANGELOG.txt.
